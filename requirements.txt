@@ -1,4 +1,1 @@
-streamlit
-nltk
-scikit-learn
-sklearn
+
